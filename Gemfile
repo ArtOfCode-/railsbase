@@ -18,7 +18,7 @@ gem 'foreman', '~> 0.84'
 gem 'jbuilder', '~> 2.5'
 gem 'redis', '~> 3.0'
 gem 'turbolinks', '~> 5'
-gem 'webpacker', '~> 3.2'
+gem 'webpacker', '~> 3.0'
 
 gem 'devise', '~> 4.3'
 gem 'rolify', '~> 5.1'
